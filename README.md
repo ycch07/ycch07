@@ -1,3 +1,19 @@
+#웹퍼블리셔 지망생
+## ">A passionate frontend developer from India
+깃허브 프로플 소개입니다.
+
+경력과 스킬&툴, 포트폴리오 등의 소개가 있습니다
+
+### 기본 정보
+1.1999.07월 생
+
+2.중원구 거주
+
+3.남
+
+4.INFP
+
+
 <h1 align="center">Hi 👋, I'm 윤 창현</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
