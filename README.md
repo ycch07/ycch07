@@ -1,5 +1,5 @@
 #웹퍼블리셔 지망생
-## ">A passionate frontend developer from India
+## ">A passionate frontend developer
 깃허브 프로플 소개입니다.
 
 경력과 스킬&툴, 포트폴리오 등의 소개가 있습니다
